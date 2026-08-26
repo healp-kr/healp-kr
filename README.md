@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=360&text=%EC%A0%90%EC%B0%A8+%EA%BE%B8%EB%A9%B0+%EB%82%98%EA%B0%88+%EA%B9%83%ED%97%99&fontSize=70&fontAlign=50&fontAlignY=40&desc=%EC%A1%B0%EA%B8%88%EC%94%A9+%EB%B0%94%EA%BE%B8%EA%B8%B0&descSize=20&descAlign=50&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=360&text=Untitled&fontSize=70&fontAlign=50&fontAlignY=40&desc=&descSize=20&descAlign=50&descAlignY=60)
 
 
 [![Notion](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](노션링크)
@@ -20,8 +20,6 @@
 **AI Tools**  
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-
-### Projects
 
 ### Projects
 - [멀티모달 리뷰 기반 CEJ 분석](링크)
