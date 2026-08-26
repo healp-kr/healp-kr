@@ -20,5 +20,8 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=healp-kr&show_icons=true&theme=onedark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=healp-kr&theme=onedark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=healp-kr&layout=compact&theme=onedark)
 
 
