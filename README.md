@@ -6,10 +6,6 @@
 **🛠️ Infra and Tools**
 ![claude](https://img.shields.io/badge/Claude-000000.svg?&style=for-the-badge) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-31A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white) 
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=pranesh-2005&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=pranesh-2005&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pranesh-2005&layout=compact&theme=radical)
-
 ## Hi there 👋
 
 <!--
