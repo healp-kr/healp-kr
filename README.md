@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=360&text=Untitled&fontSize=70&fontAlign=50&fontAlignY=40&desc=&descSize=20&descAlign=50&descAlignY=60)
 
-
+---
 [![Notion](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](노션링크)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hoosang0214@naver.com)
+
+---
 
 ### Tech Stack
 
@@ -21,6 +23,8 @@
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
+---
+
 ### Projects
 - [멀티모달 리뷰 기반 CEJ 분석](링크)
 - [생활체육 시설 접근성 & 추천 앱](링크)
@@ -28,6 +32,8 @@
 - [KLUE UI/UX 개선](링크)
   
 > 각 프로젝트의 세부 내용은 [노션 포트폴리오](링크)에정리했습니다.
+
+---
 
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=healp-kr&show_icons=true&theme=onedark)
