@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=360&text=Untitled&fontSize=70&fontAlign=50&fontAlignY=40&desc=&descSize=20&descAlign=50&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=360&text=HooSanghub&fontSize=70&fontAlign=50&fontAlignY=40&desc=&descSize=20&descAlign=50&descAlignY=60)
 
 ---
 [![Notion](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](노션링크)
