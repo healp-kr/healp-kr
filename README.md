@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=360&text=HooSanghub&fontSize=70&fontAlign=50&fontAlignY=40&desc=&descSize=20&descAlign=50&descAlignY=60)
 
 ---
-[![Notion](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](노션링크)
+[![Notion](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://app.notion.com/p/f058823a82cc83c7a9900162b20fbdda?source=copy_link)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hoosang0214@naver.com)
 
 ---
@@ -26,12 +26,12 @@
 ---
 
 ### Projects
-- [멀티모달 리뷰 기반 CEJ 분석](링크)
-- [생활체육 시설 접근성 & 추천 앱](링크)
-- [MDP 기반 응급실 Triage 최적화](링크)
-- [KLUE UI/UX 개선](링크)
+- [멀티모달 리뷰 기반 CEJ 분석]
+- [생활체육 시설 접근성 & 추천 알고리즘]
+- [MDP 기반 응급실 Triage 최적화]
+- [KLUE UI/UX 개선]
   
-> 각 프로젝트의 세부 내용은 [노션 포트폴리오](링크)에정리했습니다.
+> 각 프로젝트의 세부 내용은 [노션 포트폴리오](https://app.notion.com/p/f058823a82cc83c7a9900162b20fbdda?source=copy_link)에정리했습니다.
 
 ---
 
