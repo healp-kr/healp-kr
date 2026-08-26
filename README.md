@@ -12,13 +12,26 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **ML & NLP**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-
 **Build & Viz**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+**AI Tools**  
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+
+### Projects
+
+| 프로젝트 | 한 줄 설명 | 성과 / 역할 |
+|---|---|---|
+| **[멀티모달 리뷰 기반 CEJ 분석](링크)** | 영상·리뷰를 함께 읽어 구매~사용 단계의 페인포인트를 구조화 | 영상 파이프라인 단독 설계 — 자막 분류 → CLIP 필터링 → HDBSCAN 군집 → CEJ 매핑 |
+| **[생활체육 시설 접근성 & 추천 앱](링크)** | 서울시 공공체육시설 접근성 격차를 진단하고 개인화 운동 추천으로 연결 | 분석에서 앱 프로토타입까지 — 통계청 공모전 출품 |
+| **[MDP 기반 응급실 Triage 최적화](링크)** | 대기시간에 따른 동적 악화를 반영한 응급 자원 배분 모델 | State Splitting MDP 설계 및 정책 도출 |
+| **[KLUE UI/UX 개선](링크)** | GOMS 모델링으로 병목 구간을 특정하고 A/B 테스트로 검증 | 과업 완료 시간 약 **35% 단축** |
+
+> 각 프로젝트의 문제 정의 → 방법 → 결과는 [노션 포트폴리오](링크)에 STAR 형식으로 정리했습니다.
+
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=healp-kr&show_icons=true&theme=onedark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=healp-kr&theme=onedark)
